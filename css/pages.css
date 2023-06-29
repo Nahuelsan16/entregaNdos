@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background-color: rgba(204, 248, 203, 0.898);
+}
+
+.titulo{
+    height: 15vh;
+}
+h1 {
+    color: red;
+}
+
+header h1 span {
+    color: #000;
+}
+nav ul li{
+    list-style: none;
+   
+}
+nav ul li a{
+    text-decoration: none;
+}
+#jardin{
+    background-image: url(/assets/istockphoto-1472593939-612x612.jpg);
+    height: 30vh;
+    
+}
+#puente{
+    background-image: url(/assets/bridge-g0c6ca475c_640.jpg);
+    height: 30vh;
+    background-size: cover;
+    background-position: right;
+    
+
+}
