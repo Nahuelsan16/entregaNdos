@@ -27,7 +27,7 @@ nav ul li a{
     text-decoration: none;
 }
 #inicio {
-    background-image: url(/assets/flowers-276014_1280.jpg);
+    background-image: url(./assets/flowers-276014_1280.jpg);
     background-size: cover;
     /* background-position: center; */
     height: 100vh;

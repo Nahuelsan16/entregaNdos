@@ -31,13 +31,13 @@ nav ul li a {
 }
 
 #jardin {
-    background-image: url(/assets/istockphoto-1472593939-612x612.jpg);
+    background-image: url(../assets/istockphoto-1472593939-612x612.jpg);
     height: 30vh;
 
 }
 
 #puente {
-    background-image: url(/assets/bridge-g0c6ca475c_640.jpg);
+    background-image: url(../assets/bridge-g0c6ca475c_640.jpg);
     height: 30vh;
     background-size: cover;
     background-position: right;
